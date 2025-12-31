@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="260" height="260" viewBox="0 0 260 260">
+  <rect width="260" height="260" fill="none"/>
+  <g fill="#c9b7a4" opacity="0.18">
+    <circle cx="12" cy="18" r="1"/>
+    <circle cx="42" cy="52" r="1"/>
+    <circle cx="78" cy="28" r="1"/>
+    <circle cx="120" cy="64" r="1"/>
+    <circle cx="156" cy="36" r="1"/>
+    <circle cx="198" cy="72" r="1"/>
+    <circle cx="24" cy="116" r="1"/>
+    <circle cx="86" cy="132" r="1"/>
+    <circle cx="148" cy="108" r="1"/>
+    <circle cx="210" cy="124" r="1"/>
+    <circle cx="36" cy="182" r="1"/>
+    <circle cx="98" cy="168" r="1"/>
+    <circle cx="160" cy="186" r="1"/>
+    <circle cx="222" cy="172" r="1"/>
+    <circle cx="54" cy="226" r="1"/>
+    <circle cx="116" cy="218" r="1"/>
+    <circle cx="178" cy="232" r="1"/>
+    <circle cx="240" cy="220" r="1"/>
+  </g>
+</svg>
+``
