@@ -3,10 +3,10 @@ document.addEventListener('DOMContentLoaded', () => {
   const year = document.getElementById('year');
   if (year) year.textContent = new Date().getFullYear();
 
-  // Hide gallery figures for any missing images (keeps page clean)
+  // Hide any gallery images that fail to load (keeps page clean if you add gallery later)
   document.querySelectorAll('.gallery img').forEach(img => {
     img.addEventListener('error', () => {
-      const fig = img.closest('.ph');
+      const fig = img.closest('figure');
       if (fig) fig.style.display = 'none';
     });
   });
