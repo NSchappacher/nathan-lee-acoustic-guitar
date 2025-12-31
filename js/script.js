@@ -6,9 +6,8 @@ document.addEventListener('DOMContentLoaded', () => {
   // Hide gallery figures for any missing images (keeps page clean)
   document.querySelectorAll('.gallery img').forEach(img => {
     img.addEventListener('error', () => {
-      const fig = img.closest('figure');
+      const fig = img.closest('.ph');
       if (fig) fig.style.display = 'none';
     });
   });
 });
-``
