@@ -6,4 +6,5 @@
     </linearGradient>
   </defs>
   <rect width='64' height='64' rx='12' fill='url(#g)'/>
-  <text x='50%' y='52%' dominant-baseline='middle' text-anchor='middle' font-size='28' font-fami
+  <text x='50%' y='52%' dominant-baseline='middle' text-anchor='middle' font-size='28' font-family='Cinzel, serif' fill='white'>NL</text>
+</svg>
